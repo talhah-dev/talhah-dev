@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://inside-dev.netlify.app/](https://inside-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://muhammad-talhah.vercel.app/)
 
 - 💬 Ask me about **Reactjs, Nextjs**
 
